@@ -2,8 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+	
+	Rahul Basu , Developer , rnns@fjjj.com
 
 # THANKS
 
